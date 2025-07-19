@@ -1,3 +1,4 @@
+![Visualization](viz5.gif)
 NOISE: CLEAN
 EVENT: V4046SGR
 LINE: HCO+
