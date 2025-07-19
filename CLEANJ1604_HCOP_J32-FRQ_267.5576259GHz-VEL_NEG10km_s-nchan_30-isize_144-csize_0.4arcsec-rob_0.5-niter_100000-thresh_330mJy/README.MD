@@ -1,3 +1,4 @@
+![Visualization](viz2.gif)
 NOISE: CLEAN
 EVENT: J1604
 LINE: HCO+
