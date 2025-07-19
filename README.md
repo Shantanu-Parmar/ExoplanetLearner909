@@ -1,2 +1,5 @@
-<video src="extras/viz1.mp4" autoplay loop muted playsinline width="600"></video>
-<video src="extras/viz2.mp4" autoplay loop muted playsinline width="600"></video>
+### Visualization 1
+![Viz 1](extras/viz1.gif)
+
+### Visualization 2
+![Viz 2](extras/viz2.gif)
