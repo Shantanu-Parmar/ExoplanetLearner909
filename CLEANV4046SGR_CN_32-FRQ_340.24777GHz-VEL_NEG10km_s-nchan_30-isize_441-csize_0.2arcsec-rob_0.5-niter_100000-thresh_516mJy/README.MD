@@ -1,3 +1,4 @@
+![Visualization](viz4.gif)
 NOISE: CLEAN
 EVENT: V4046SGR
 LINE: CN
