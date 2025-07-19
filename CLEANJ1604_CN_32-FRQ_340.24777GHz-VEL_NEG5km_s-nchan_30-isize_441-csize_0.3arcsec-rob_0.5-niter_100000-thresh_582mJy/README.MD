@@ -1,3 +1,4 @@
+![Visualization](viz.gif)
 NOISE: CLEAN
 EVENT: J1604
 LINE: CN
