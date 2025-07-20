@@ -1,5 +1,3 @@
-### 🔍 Visualization
-
 
 ![Viz 1](extra/viz2.gif)
 
