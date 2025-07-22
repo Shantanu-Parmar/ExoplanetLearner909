@@ -1,0 +1,15 @@
+tclean Parameters
+Date: 2025-07-23 00:46:21
+
+vis: /home/admin-user/Desktop/CASABATCH2/GMAur-20250721T145009Z-1-001/GMAur/GMAur_COM_HCOp_J32.ms,/home/admin-user/Desktop/CASABATCH2/GMAur-20250721T145009Z-1-001/GMAur/GMAur_EXT_HCOp_J32.ms
+field: GMAur
+imagename: CLEANGMAur_COM_HCOp_J32
+restfreq: 267.5576259GHz
+start: 1km/s
+nchan: 20
+imsize: 1200
+cell: 0.1arcsec
+robust: 2.0
+niter: 100000
+threshold: 2109.0mJy
+clean: True

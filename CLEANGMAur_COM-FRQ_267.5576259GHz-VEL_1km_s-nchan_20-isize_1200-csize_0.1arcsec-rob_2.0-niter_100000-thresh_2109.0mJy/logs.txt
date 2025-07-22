@@ -1,0 +1,5 @@
+
+--- Log started at 2025-07-23 00:46:21 ---
+Running tclean on CLEANGMAur_COM_HCOp_J32 with MS: /home/admin-user/Desktop/CASABATCH2/GMAur-20250721T145009Z-1-001/GMAur/GMAur_COM_HCOp_J32.ms, /home/admin-user/Desktop/CASABATCH2/GMAur-20250721T145009Z-1-001/GMAur/GMAur_EXT_HCOp_J32.ms...
+Image created: CLEANGMAur_COM_HCOp_J32.image
+# RMS: 7.59e+01 mJy/beam
