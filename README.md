@@ -1,4 +1,5 @@
 
+![Viz 0](CLEANLkca15_COM-FRQ_267.5576259GHz-VEL_1km_s-nchan_30-isize_1200-csize_0.05arcsec-rob_2.0-niter_100000-thresh_450mJy/CASA/viz.gif)
 ![Viz 1](extra/viz2.gif)
 
 ![Viz 2](extra/viz1.gif)
