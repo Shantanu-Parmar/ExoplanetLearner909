@@ -1,0 +1,15 @@
+tclean Parameters
+Date: 2025-07-23 14:00:13
+
+vis: /home/admin-user/Desktop/CASABATCH2/LkCa15-20250721T145019Z-1-001/LkCa15/LkCa15_COM_HCOp_J32.ms,/home/admin-user/Desktop/CASABATCH2/LkCa15-20250721T145019Z-1-001/LkCa15/LkCa15_EXT_HCOp_J32.ms
+field: Lkca15
+imagename: Lkca_COM_HCOp_J32
+restfreq: 267.5576259GHz
+start: 1km/s
+nchan: 30
+imsize: 1200
+cell: 0.05arcsec
+robust: 2.0
+niter: 100000
+threshold: 450mJy
+clean: True
