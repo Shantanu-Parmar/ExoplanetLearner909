@@ -1,5 +1,0 @@
-
---- Log started at 2025-07-23 14:00:13 ---
-Running tclean on Lkca_COM_HCOp_J32 with MS: /home/admin-user/Desktop/CASABATCH2/LkCa15-20250721T145019Z-1-001/LkCa15/LkCa15_COM_HCOp_J32.ms, /home/admin-user/Desktop/CASABATCH2/LkCa15-20250721T145019Z-1-001/LkCa15/LkCa15_EXT_HCOp_J32.ms...
-Image created: Lkca_COM_HCOp_J32.image
-Disk Lkca15 not found in disk dictionary, skipping RMS calculation

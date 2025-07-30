@@ -1,5 +1,0 @@
-
---- Log started at 2025-07-22 23:04:25 ---
-Running tclean on GGTau_COM_HCOp_J32 with MS: /home/admin-user/Desktop/CASABATCH2/GGTau-20250721T145004Z-1-001/GGTau/GGTau_COM_HCOp_J32.ms, /home/admin-user/Desktop/CASABATCH2/GGTau-20250721T145004Z-1-001/GGTau/GGTau_EXT_HCOp_J32.ms...
-Image created: GGTau_COM_HCOp_J32.image
-# RMS: 5.47e+01 mJy/beam
