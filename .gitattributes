@@ -4,3 +4,4 @@ V4046Sgr_CO_32.FITS filter=lfs diff=lfs merge=lfs -text
 Phase2/GMAur_COM_HCOp_J32.FITS filter=lfs diff=lfs merge=lfs -text
 Phase2/GGTau_COM_HCOp_J32.FITS filter=lfs diff=lfs merge=lfs -text
 Phase2/V4046Sgr_CO_32.FITS filter=lfs diff=lfs merge=lfs -text
+*.mask.fits filter=lfs diff=lfs merge=lfs -text
