@@ -1,0 +1,5 @@
+
+--- Log started at 2025-09-25 14:12:06 ---
+Running tclean on DIRTYGGTau_HCOp_J32 with MS: /home/admin-user/Desktop/CASABATCH4/RAW/GGTau/HCOp32/GGTau_COM_HCOp_J32.ms, /home/admin-user/Desktop/CASABATCH4/RAW/GGTau/HCOp32/GGTau_EXT_HCOp_J32.ms...
+Image created: DIRTYGGTau_HCOp_J32.image
+# RMS: 5.21e+01 mJy/beam

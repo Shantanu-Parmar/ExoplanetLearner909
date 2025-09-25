@@ -1,0 +1,5 @@
+
+--- Log started at 2025-09-25 13:59:18 ---
+Running tclean on DIRTYGMAur_HCOp_J32 with MS: /home/admin-user/Desktop/CASABATCH4/RAW/GMAur/HCOp32/GMAur_COM_HCOp_J32.ms, /home/admin-user/Desktop/CASABATCH4/RAW/GMAur/HCOp32/GMAur_EXT_HCOp_J32.ms...
+Image created: DIRTYGMAur_HCOp_J32.image
+# RMS: 4.59e+01 mJy/beam

@@ -1,0 +1,15 @@
+tclean Parameters
+Date: 2025-09-25 14:14:40
+
+vis: /home/admin-user/Desktop/CASABATCH4/RAW/GGTau/HCOp43/GGTau_COM_HCOp_J43.ms,/home/admin-user/Desktop/CASABATCH4/RAW/GGTau/HCOp43/GGTau_EXT_HCOp_J43.ms
+field: GGTau
+imagename: DIRTYGGTau_HCOp_J43
+restfreq: 356.7342880GHz
+start: -10km/s
+nchan: 60
+imsize: 540
+cell: 0.18arcsec
+robust: 0.5
+niter: 100000
+threshold: 450.0mJy
+clean: False

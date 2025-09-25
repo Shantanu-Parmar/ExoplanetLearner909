@@ -1,0 +1,5 @@
+
+--- Log started at 2025-09-25 14:08:53 ---
+Running tclean on DIRTYGGTau_CN_32 with MS: /home/admin-user/Desktop/CASABATCH4/RAW/GGTau/CN/GGTau_COM_CN_32.ms, /home/admin-user/Desktop/CASABATCH4/RAW/GGTau/CN/GGTau_EXT_CN_32.ms...
+Image created: DIRTYGGTau_CN_32.image
+# RMS: 1.02e+02 mJy/beam

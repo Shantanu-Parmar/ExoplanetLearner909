@@ -1,0 +1,15 @@
+tclean Parameters
+Date: 2025-09-25 14:08:53
+
+vis: /home/admin-user/Desktop/CASABATCH4/RAW/GGTau/CN/GGTau_COM_CN_32.ms,/home/admin-user/Desktop/CASABATCH4/RAW/GGTau/CN/GGTau_EXT_CN_32.ms
+field: GGTau
+imagename: DIRTYGGTau_CN_32
+restfreq: 340.24777GHz
+start: -10km/s
+nchan: 60
+imsize: 540
+cell: 0.18arcsec
+robust: 0.5
+niter: 100000
+threshold: 450.0mJy
+clean: False

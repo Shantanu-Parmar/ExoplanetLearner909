@@ -1,0 +1,5 @@
+
+--- Log started at 2025-09-25 13:36:15 ---
+Running tclean on DIRTYGMAur_CN_32 with MS: /home/admin-user/Desktop/CASABATCH4/RAW/GMAur/CN/GMAur_COM_CN_32.ms, /home/admin-user/Desktop/CASABATCH4/RAW/GMAur/CN/GMAur_EXT_CN_32.ms...
+Image created: DIRTYGMAur_CN_32.image
+# RMS: 8.12e+01 mJy/beam
