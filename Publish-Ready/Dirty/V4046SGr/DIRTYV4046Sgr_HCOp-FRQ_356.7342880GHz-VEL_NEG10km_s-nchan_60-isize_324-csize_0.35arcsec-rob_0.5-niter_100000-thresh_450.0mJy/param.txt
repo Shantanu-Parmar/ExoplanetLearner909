@@ -1,0 +1,15 @@
+tclean Parameters
+Date: 2025-09-25 13:15:47
+
+vis: /home/admin-user/Desktop/CASA BATCH4/RAW/V4046Sgr/HCOp_J43/V4046Sgr_HCOp_J43.ms
+field: V4046Sgr
+imagename: DIRTYV4046Sgr_HCOp_J43
+restfreq: 356.7342880GHz
+start: -10km/s
+nchan: 60
+imsize: 324
+cell: 0.35arcsec
+robust: 0.5
+niter: 100000
+threshold: 450.0mJy
+clean: False

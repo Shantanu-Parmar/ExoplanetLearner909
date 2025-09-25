@@ -1,0 +1,15 @@
+tclean Parameters
+Date: 2025-09-25 13:11:50
+
+vis: /home/admin-user/Desktop/CASA BATCH4/RAW/V4046Sgr/CO/V4046Sgr_CO_32.ms
+field: V4046Sgr
+imagename: DIRTYV4046Sgr_CO_32
+restfreq: 345.79599GHz
+start: -10km/s
+nchan: 60
+imsize: 324
+cell: 0.35arcsec
+robust: 0.5
+niter: 100000
+threshold: 450.0mJy
+clean: False

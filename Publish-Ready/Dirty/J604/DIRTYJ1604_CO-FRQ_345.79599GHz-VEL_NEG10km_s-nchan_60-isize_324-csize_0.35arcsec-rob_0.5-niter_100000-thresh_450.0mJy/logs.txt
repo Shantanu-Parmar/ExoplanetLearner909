@@ -1,0 +1,5 @@
+
+--- Log started at 2025-09-25 13:19:49 ---
+Running tclean on DIRTYJ1604_CO_32 with MS: /home/admin-user/Desktop/CASA BATCH4/RAW/J1604/CO/J1604_CO_32.ms...
+Image created: DIRTYJ1604_CO_32.image
+# RMS: 3.30e+02 mJy/beam

@@ -1,0 +1,5 @@
+
+--- Log started at 2025-09-25 13:08:41 ---
+Running tclean on DIRTYV4046Sgr_HCOp_J32 with MS: /home/admin-user/Desktop/CASA BATCH4/RAW/V4046Sgr/HCOp_32/V4046Sgr_HCOp_J32.ms...
+Image created: DIRTYV4046Sgr_HCOp_J32.image
+# RMS: 8.19e+01 mJy/beam

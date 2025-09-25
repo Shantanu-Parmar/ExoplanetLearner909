@@ -1,0 +1,5 @@
+
+--- Log started at 2025-09-25 13:24:55 ---
+Running tclean on DIRTYJ1604_HCOp_J43 with MS: /home/admin-user/Desktop/CASA BATCH4/RAW/J1604/HCOp_J43/J1604_HCOp_J43.ms...
+Image created: DIRTYJ1604_HCOp_J43.image
+# RMS: 4.35e+02 mJy/beam
