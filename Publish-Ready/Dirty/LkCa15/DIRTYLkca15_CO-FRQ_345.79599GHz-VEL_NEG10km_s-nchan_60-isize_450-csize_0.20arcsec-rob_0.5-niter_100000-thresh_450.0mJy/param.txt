@@ -1,0 +1,15 @@
+tclean Parameters
+Date: 2025-09-25 14:19:18
+
+vis: /home/admin-user/Desktop/CASABATCH4/RAW/LkCa15/CO/LkCa15_COM_CO_32.ms,/home/admin-user/Desktop/CASABATCH4/RAW/LkCa15/CO/LkCa15_EXT_CO_32.ms
+field: Lkca15
+imagename: DIRTYLkCa15_CO_32
+restfreq: 345.79599GHz
+start: -10km/s
+nchan: 60
+imsize: 450
+cell: 0.20arcsec
+robust: 0.5
+niter: 100000
+threshold: 450.0mJy
+clean: False

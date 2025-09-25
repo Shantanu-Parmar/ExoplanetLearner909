@@ -1,0 +1,5 @@
+
+--- Log started at 2025-09-25 14:19:18 ---
+Running tclean on DIRTYLkCa15_CO_32 with MS: /home/admin-user/Desktop/CASABATCH4/RAW/LkCa15/CO/LkCa15_COM_CO_32.ms, /home/admin-user/Desktop/CASABATCH4/RAW/LkCa15/CO/LkCa15_EXT_CO_32.ms...
+Image created: DIRTYLkCa15_CO_32.image
+# RMS: 9.78e+01 mJy/beam

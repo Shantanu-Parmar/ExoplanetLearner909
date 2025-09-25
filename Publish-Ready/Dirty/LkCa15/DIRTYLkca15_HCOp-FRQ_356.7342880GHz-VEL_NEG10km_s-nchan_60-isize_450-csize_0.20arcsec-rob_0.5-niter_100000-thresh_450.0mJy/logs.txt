@@ -1,0 +1,5 @@
+
+--- Log started at 2025-09-25 14:28:35 ---
+Running tclean on DIRTYLkCa15_HCOp_J43 with MS: /home/admin-user/Desktop/CASABATCH4/RAW/LkCa15/HCOp43/LkCa15_COM_HCOp_J43.ms, /home/admin-user/Desktop/CASABATCH4/RAW/LkCa15/HCOp43/LkCa15_EXT_HCOp_J43.ms...
+Image created: DIRTYLkCa15_HCOp_J43.image
+# RMS: 1.37e+02 mJy/beam
