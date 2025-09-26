@@ -1,0 +1,15 @@
+tclean Parameters
+Date: 2025-09-26 01:19:16
+
+vis: /home/admin-user/Desktop/CASABATCH4/RAW/GMAur/HCOp32/GMAur_COM_HCOp_J32.ms,/home/admin-user/Desktop/CASABATCH4/RAW/GMAur/HCOp32/GMAur_EXT_HCOp_J32.ms
+field: GMAur
+imagename: CLEANGMAur_COM_HCOp_J32
+restfreq: 267.5576259GHz
+start: -10km/s
+nchan: 60
+imsize: 450
+cell: 0.20arcsec
+robust: 0.5
+niter: 100000
+threshold: 45.9mJy
+clean: True

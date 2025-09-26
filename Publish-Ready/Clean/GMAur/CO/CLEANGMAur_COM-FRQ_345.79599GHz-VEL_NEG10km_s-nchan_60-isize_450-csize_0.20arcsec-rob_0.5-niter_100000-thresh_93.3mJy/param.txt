@@ -1,0 +1,15 @@
+tclean Parameters
+Date: 2025-09-26 01:13:29
+
+vis: /home/admin-user/Desktop/CASABATCH4/RAW/GMAur/CO/GMAur_COM_CO_32.ms,/home/admin-user/Desktop/CASABATCH4/RAW/GMAur/CO/GMAur_EXT_CO_32.ms
+field: GMAur
+imagename: CLEANGMAur_COM_CO_32
+restfreq: 345.79599GHz
+start: -10km/s
+nchan: 60
+imsize: 450
+cell: 0.20arcsec
+robust: 0.5
+niter: 100000
+threshold: 93.3mJy
+clean: True

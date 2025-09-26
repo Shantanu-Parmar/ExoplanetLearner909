@@ -1,0 +1,15 @@
+tclean Parameters
+Date: 2025-09-26 00:56:07
+
+vis: /home/admin-user/Desktop/CASABATCH4/RAW/J1604/HCOp_J32/J1604_HCOp_J32.ms
+field: J1604
+imagename: CLEANJ1604_HCOp_J32
+restfreq: 267.5576259GHz
+start: -10km/s
+nchan: 60
+imsize: 324
+cell: 0.35arcsec
+robust: 0.5
+niter: 100000
+threshold: 108.0mJy
+clean: True

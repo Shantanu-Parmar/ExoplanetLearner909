@@ -1,0 +1,15 @@
+tclean Parameters
+Date: 2025-09-25 23:16:58
+
+vis: /home/admin-user/Desktop/CASABATCH4/RAW/J1604/CN/J1604_CN_32.ms
+field: J1604
+imagename: CLEANJ1604_CN_32
+restfreq: 340.24777GHz
+start: -10km/s
+nchan: 60
+imsize: 324
+cell: 0.35arcsec
+robust: 0.5
+niter: 100000
+threshold: 226.0mJy
+clean: True

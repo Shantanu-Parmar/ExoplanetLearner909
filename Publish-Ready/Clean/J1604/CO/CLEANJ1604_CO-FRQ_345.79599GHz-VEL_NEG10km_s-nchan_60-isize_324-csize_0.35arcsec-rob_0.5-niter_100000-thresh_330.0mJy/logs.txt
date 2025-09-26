@@ -1,0 +1,5 @@
+
+--- Log started at 2025-09-26 00:53:11 ---
+Running tclean on CLEANJ1604_CO_32 with MS: /home/admin-user/Desktop/CASABATCH4/RAW/J1604/CO/J1604_CO_32.ms...
+Image created: CLEANJ1604_CO_32.image
+# RMS: 3.30e+02 mJy/beam
