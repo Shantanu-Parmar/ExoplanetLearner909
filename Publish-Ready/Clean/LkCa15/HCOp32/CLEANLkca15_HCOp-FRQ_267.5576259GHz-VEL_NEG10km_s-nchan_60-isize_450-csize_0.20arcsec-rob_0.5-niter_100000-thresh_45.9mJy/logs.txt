@@ -1,0 +1,5 @@
+
+--- Log started at 2025-09-26 12:27:21 ---
+Running tclean on CLEANLkCa15_HCOp_J32 with MS: /home/admin-user/Desktop/CASABATCH4/RAW/LkCa15/HCOp32/LkCa15_COM_HCOp_J32.ms, /home/admin-user/Desktop/CASABATCH4/RAW/LkCa15/HCOp32/LkCa15_EXT_HCOp_J32.ms...
+Image created: CLEANLkCa15_HCOp_J32.image
+# RMS: 4.59e+01 mJy/beam
