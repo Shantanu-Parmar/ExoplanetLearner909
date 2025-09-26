@@ -1,0 +1,5 @@
+
+--- Log started at 2025-09-26 00:39:57 ---
+Running tclean on CLEANV4046Sgr_HCOp_J32 with MS: /home/admin-user/Desktop/CASABATCH4/RAW/V4046Sgr/HCOp_32/V4046Sgr_HCOp_J32.ms...
+Image created: CLEANV4046Sgr_HCOp_J32.image
+# RMS: 8.19e+01 mJy/beam

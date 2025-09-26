@@ -1,0 +1,5 @@
+
+--- Log started at 2025-09-26 01:52:20 ---
+Running tclean on CLEANGGTau_HCOp_J43 with MS: /home/admin-user/Desktop/CASABATCH4/RAW/GGTau/HCOp43/GGTau_COM_HCOp_J43.ms, /home/admin-user/Desktop/CASABATCH4/RAW/GGTau/HCOp43/GGTau_EXT_HCOp_J43.ms...
+Image created: CLEANGGTau_HCOp_J43.image
+# RMS: 1.87e+02 mJy/beam

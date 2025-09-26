@@ -1,0 +1,15 @@
+tclean Parameters
+Date: 2025-09-26 01:45:41
+
+vis: /home/admin-user/Desktop/CASABATCH4/RAW/GGTau/HCOp32/GGTau_COM_HCOp_J32.ms,/home/admin-user/Desktop/CASABATCH4/RAW/GGTau/HCOp32/GGTau_EXT_HCOp_J32.ms
+field: GGTau
+imagename: CLEANGGTau_HCOp_J32
+restfreq: 267.5576259GHz
+start: -10km/s
+nchan: 60
+imsize: 540
+cell: 0.18arcsec
+robust: 0.5
+niter: 100000
+threshold: 52.1mJy
+clean: True
